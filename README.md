@@ -9,11 +9,13 @@
         - moblie 
 - network protocol
     - transport : HTTP, UDP, TCP/IP ...
-    - Binary vs Textual Protocol
+    - Binary vs Textual Protocol (Json ...)
+    - Transport Layer Security (**TLS**) vs Secure Socket Layer (**SSL**)
 - multiple simultaneous clients
-    - districted system
+    - **districted system**
+    - more conflicts
 - more details
-    - encryption
+    - **encryption**
     - compression
-    - file versioning / update type (using the **rsync algorithm**)
+    - file versioning / update type (e.g., using the **rsync algorithm**)
 
