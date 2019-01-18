@@ -8,7 +8,7 @@
         - desktop
         - moblie 
 - network protocol
-    - transport : HTTP, UDP, TCP/IP ...
+    - transport : TCP, UDP
     - Binary vs Textual Protocol (Json ...)
     - Transport Layer Security (**TLS**) vs Secure Socket Layer (**SSL**)
 - multiple simultaneous clients
@@ -18,4 +18,5 @@
     - **encryption**
     - compression
     - file versioning / update type (e.g., using the **rsync algorithm**)
+
 
